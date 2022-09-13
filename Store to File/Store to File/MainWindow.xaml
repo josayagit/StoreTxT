@@ -1,0 +1,19 @@
+﻿<Window x:Class="Store_to_File.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Store_to_File"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Label Content="WRITE TO FILE" HorizontalAlignment="Left" Margin="279,50,0,0" VerticalAlignment="Top" Width="181" FontSize="24" FontFamily="Bauhaus 93"/>
+        <Label Content="MODULE CODE:" HorizontalAlignment="Left" Margin="204,115,0,0" VerticalAlignment="Top" Width="102"/>
+        <Label Content="MODULE NAME:" HorizontalAlignment="Left" Margin="204,146,0,0" VerticalAlignment="Top" Width="102"/>
+        <TextBox x:Name="txbModuleCode" HorizontalAlignment="Left" Margin="329,119,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+        <TextBox x:Name="txbModuleName" HorizontalAlignment="Left" Margin="329,150,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120" TextChanged="txbPassword_TextChanged"/>
+        <Button x:Name="btnRegister" Content="CAPTURE " HorizontalAlignment="Left" Margin="204,0,0,0" VerticalAlignment="Center" Width="140" Click="btnRegister_Click"/>
+        <Button Content="STORE" HorizontalAlignment="Left" Margin="420,0,0,0" VerticalAlignment="Center" Width="127" Click="Button_Click"/>
+
+    </Grid>
+</Window>

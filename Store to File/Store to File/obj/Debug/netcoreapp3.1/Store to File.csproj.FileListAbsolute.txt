@@ -1,0 +1,20 @@
+C:\Users\ST10099795\source\repos\Store to File\Store to File\bin\Debug\netcoreapp3.1\Store to File.exe
+C:\Users\ST10099795\source\repos\Store to File\Store to File\bin\Debug\netcoreapp3.1\Store to File.deps.json
+C:\Users\ST10099795\source\repos\Store to File\Store to File\bin\Debug\netcoreapp3.1\Store to File.runtimeconfig.json
+C:\Users\ST10099795\source\repos\Store to File\Store to File\bin\Debug\netcoreapp3.1\Store to File.runtimeconfig.dev.json
+C:\Users\ST10099795\source\repos\Store to File\Store to File\bin\Debug\netcoreapp3.1\Store to File.dll
+C:\Users\ST10099795\source\repos\Store to File\Store to File\bin\Debug\netcoreapp3.1\Store to File.pdb
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\Store to File.csproj.AssemblyReference.cache
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\Store to File_MarkupCompile.cache
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\Store to File_MarkupCompile.lref
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\Store to File.g.resources
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\Store to File.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\Store to File.AssemblyInfoInputs.cache
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\Store to File.AssemblyInfo.cs
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\Store to File.csproj.CoreCompileInputs.cache
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\Store to File.dll
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\Store to File.pdb
+C:\Users\ST10099795\source\repos\Store to File\Store to File\obj\Debug\netcoreapp3.1\Store to File.genruntimeconfig.cache
